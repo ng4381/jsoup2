@@ -63,4 +63,8 @@ public class Main {
 
          */
     }
+
+    public void newMethodForBranch_1(){
+        System.out.println("Branch_1");
+    }
 }
